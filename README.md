@@ -10,6 +10,7 @@ This is a project for my computer graphics course at university of Cairo (Comput
 ## How to install
 * clone this repo using this command : 
 > git clone https://github.com/ManarGamal885/GunsGame.git
+> whole project https://github.com/cs304Project/Guns.git
 * download an ide like netbeans
 * you can find documentation to download and setup jogl here https://mgayar.blogspot.com/2014/03/how-to-install-jogl11-into-netbeans.html
 * download json-simple from here https://www.dropbox.com/sh/wz8kpntgftjpbn9/AADU20oyJyAaYEHFUjRSvNEda?dl=0
