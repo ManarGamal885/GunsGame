@@ -26,3 +26,7 @@ This is a project for my computer graphics course at university of Cairo (Comput
 ![images/t1.png](images/t1.png)
 ![images/t2.png](images/t2.png)
 ![images/t3.png](images/t3.png)
+
+## Run
+* you can run the project from:
+* main/Guns.java
