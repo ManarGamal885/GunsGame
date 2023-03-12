@@ -22,4 +22,4 @@ This is a project for my computer graphics course at university of Cairo (Comput
 *powerUp to increase score
 *collesion with gifts
 ## Demo
-![Image1!](Guns\images\Screenshot 2023-03-13 001000.png)
+![Image1!](Guns\images\t1.png)
