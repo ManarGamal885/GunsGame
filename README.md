@@ -29,4 +29,4 @@ This is a project for my computer graphics course at university of Cairo (Comput
 
 ## Run
 * you can run the project from:
-* main/Guns.java
+ main/Guns.java
